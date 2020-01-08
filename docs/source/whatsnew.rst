@@ -27,7 +27,7 @@ offers several improvements over the previous lifecycle:
   trust models (such as that of the previous lifecycle model) as well as
   decentralized models requiring a sufficient number of organizations to
   agree on an endorsement policy and other details before the chaincode
-  ecomes active on a channel.
+  becomes active on a channel.
 
 * **More deliberate chaincode upgrade process** In the previous chaincode
   lifecycle, the upgrade transaction could be issued by a single organization,
